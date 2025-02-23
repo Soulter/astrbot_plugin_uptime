@@ -1,0 +1,7 @@
+{
+    "interval": {
+        "description": "检查间隔 分钟",
+        "type": "int",
+        "hint": "轮询检查间隔"
+    }
+}
